@@ -1,0 +1,28 @@
+LAB EXPERIMENTS-JSP
+1.Create a html form with name,branch,checkboxes then display
+ values using process.jsp page.
+2.Write a JSP to access the values from the web.xml file using 
+ServletConfig Object.
+3.Write a JSP that includes scriptlet tag,expression and declarative tags.
+4.Design a html form with rollno,name,branch and section and insert these
+values in the oracle database using register.jsp page.
+5.Design a html form with rollno and then reterive name,branch section
+from the table using reterive.jsp
+6.Design a jsp that includes implicit jsp objects.(request,response,out,config
+,application(ServletContext),session(HttpSession),pageContext(PageContext)
+page(Object)
+7.Write a jsp script that includes directive and action tags.
+
+Servlet Programs
+1.Install Tomcat and draw the hirearchy of folders and files
+2.Design a Generic servlet and disply the message(Include web.xml)
+3.Design a HttpServlet and display the message
+4.Design a html form with name and branch and then display
+data using servlet program.
+5.Design a Servlet program for adding cookies and reteriving cookies
+6.Desing a servlet or jsp program for HttpSession
+7.Design a servlet program to insert details in the Database
+8.Desing a servlet program to reterive the values from the database.
+
+
+
